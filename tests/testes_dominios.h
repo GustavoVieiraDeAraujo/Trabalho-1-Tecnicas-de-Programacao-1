@@ -1,6 +1,6 @@
 // Arquivo de implementação das classes de teste dos domínios.
 
-#include "dominios.h"
+#include "../src/dominios.h"
 
 // ----------------------------------
 // Classe para fazer teste unitarios.

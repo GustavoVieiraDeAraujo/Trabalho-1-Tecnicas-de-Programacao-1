@@ -1,5 +1,5 @@
 // Arquivo de implementação das classes de teste das entidades.
-#include "entidades.h"
+#include "../src/entidades.h"
 
 // ----------------------------------
 // Classe para fazer teste unitarios.

@@ -1,6 +1,6 @@
 #include <iostream>
-#include "testes_dominios.h"
-#include "testes_entidades.h"
+#include "../tests/testes_dominios.h"
+#include "../tests/testes_entidades.h"
 
 using namespace std;
 
